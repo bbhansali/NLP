@@ -8,3 +8,4 @@ lemmetization(review)
 vectorizing
 word embedding
 artificial neural networks
+SVC(select vector classifier)
